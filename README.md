@@ -16,6 +16,6 @@ Amazonas has the highest average delivery time of all the states
 ![Average Delivery Time Per State](https://github.com/ddang1217/brazil_target_project/blob/main/Pictures/deliverytimestate.png)
 
 
+Sao Paulo bought the most from Target
 
-Sao Paulo 
 ![Most Profitable State](https://github.com/ddang1217/brazil_target_project/blob/main/Pictures/richstate.png)
