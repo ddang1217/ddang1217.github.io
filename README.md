@@ -10,6 +10,6 @@ This is a project I did for my school where I had to analyze Target's performanc
 
   
 
-Results 
+Meaningful Reports I have generated
 
 ![Average Delivery Time Per State](https://github.com/ddang1217/brazil_target_project/blob/main/Pictures/deliverytimestate.png)
