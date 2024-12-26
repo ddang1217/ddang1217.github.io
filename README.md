@@ -6,4 +6,4 @@ This is a project I did for my school where I had to analyze Target's performanc
 
 * Dataset was taken from this kaggle dataset [here](https://www.kaggle.com/datasets/ujjwalinsights/target-case-study-using-sql)
 * Used Jupyter Notebook and Postgres for data analysis
-* PowerBI for visualization
+* Used PowerBI for visualization found here
