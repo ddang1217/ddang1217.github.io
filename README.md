@@ -9,4 +9,5 @@ This is a project I did for my school where I had to analyze Target's performanc
 * Used PowerBI for visualization found here
 
 Results 
-![alt text]()
+
+![Average Delivery Time Per State](https://github.com/ddang1217/brazil_target_project/blob/main/Pictures/deliverytimestate.png)
