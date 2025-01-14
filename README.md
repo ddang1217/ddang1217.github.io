@@ -18,4 +18,4 @@ Amazonas has the highest average delivery time of all the states
 
 Sao Paulo sales is the highest because of its dense population
 
-![Most Profitable State](https://github.com/ddang1217/braziltargetproject/blob/main/Pictures/richstate.png)
+![Most Profitable State](https://raw.githubusercontent.com/ddang1217/braziltargetproject/refs/heads/main/Pictures/richstate.png)
