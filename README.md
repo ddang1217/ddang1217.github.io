@@ -13,9 +13,9 @@ This is a project I did for my school where I had to analyze Target's performanc
 ## Examples of Reports I generated
 
 Amazonas has the highest average delivery time of all the states
-![Average Delivery Time Per State](https://github.com/ddang1217/brazil_target_project/blob/main/Pictures/deliverytimestate.png)
+![Average Delivery Time Per State](http://github.com/ddang1217/brazil_target_project/blob/main/Pictures/deliverytimestate.png)
 
 
 Sao Paulo sales is the highest because of its dense population
 
-![Most Profitable State](https://github.com/ddang1217/brazil_target_project/blob/main/Pictures/richstate.png)
+![Most Profitable State](http://github.com/ddang1217/brazil_target_project/blob/main/Pictures/richstate.png)
